@@ -30,7 +30,7 @@ some are a mixture.
 
 APIs can provide data for a single-page JavaScript application, handle payment
 information to avoid clients needing to worry about storing credit card details,
-post Facebook statuses on a users timeline, or share the same data across a
+post Facebook statuses on a user's timeline, or share the same data across a
 myriad of different devices; Watch that Netflix show on your Xbox, it's all
 good, APIs have you covered.
 
