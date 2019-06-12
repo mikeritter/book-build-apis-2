@@ -102,7 +102,7 @@ and weaknesses when applied to the task at hand.
 
 WARNING: One thing to be wary of here is that some developers get a little giddy
 when told they can "use whatever language you like", finally giving
-CoolNewLanguage™ a try, even though the are not very experienced with it. Not
+CoolNewLanguage™ a try, even though they are not very experienced with it. Not
 only will that make it hard to maintain for that developer, it might also make
 it hard to find other developers who can help maintain it. If management are not
 careful, a company just getting into SoA can have 20 services in 20 different
